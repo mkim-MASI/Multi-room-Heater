@@ -10,4 +10,4 @@ The file called "dynamics.slx" is our multi-room heating system with the scopes.
 
 "dynamics_generate.slx" is the file we used to generate our C code. The executable was created by first altering our generated C files to prompt the user for input and give output instead of using hard coded values. Then, we built the executable from these files.
 
-'FinalReport.docx' is our final report for this project
+'FinalReport_PostEdits.docx' is our final report for this project
